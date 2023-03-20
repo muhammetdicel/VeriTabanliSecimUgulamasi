@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeriTabanlıSecimUgulamasi", "VeriTabanlıSecimUgulamasi\VeriTabanlıSecimUgulamasi.csproj", "{3E81494D-3212-4060-9E65-B2115661F24C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E81494D-3212-4060-9E65-B2115661F24C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E81494D-3212-4060-9E65-B2115661F24C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E81494D-3212-4060-9E65-B2115661F24C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E81494D-3212-4060-9E65-B2115661F24C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B559597B-B161-4D3C-AC56-04E044425E18}
+	EndGlobalSection
+EndGlobal
